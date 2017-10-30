@@ -13,3 +13,5 @@ export const HEROES: Hero[] = [
     { id: 20, name: 'Tornado' },
     { id: 21, name: 'Mr. Nice' }
   ];
+
+  //replaced functionally by in memory data service, now safe to delete.
